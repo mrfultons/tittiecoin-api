@@ -1,7 +1,7 @@
 # What is this?
 A basic PHP/MySQL example on how to implement TittieCoin's API to easily process TittieCoin payments.
 
-It uses the Receive Payments API: http://api.tittiecoin.com/
+It uses the Receive Payments API: https://api.tittiecoin.com/
 
 It automatically updates the order with the received payments (using Receive Payments API).
 
