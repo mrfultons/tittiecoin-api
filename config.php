@@ -26,5 +26,5 @@
 	// API root
 	$API = "https://ttcapi.com/";
 	// Block explorer
-	$EXPLORER = "http://blockexperts.com/ttc/";
+	$EXPLORER = "http://explorer.tittiecoin.com";
 ?>
